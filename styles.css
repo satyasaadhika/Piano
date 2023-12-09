@@ -5,3 +5,12 @@ html {
  *, *::before, *::after {
     box-sizing: inherit;
 }
+#piano {
+    background-color: #130047;
+    width: 992px;
+    height: 290px;
+    margin: 80px auto;
+    padding: 90px 20px 0 20px;
+    position: relative;
+    border-radius: 10px;
+}
